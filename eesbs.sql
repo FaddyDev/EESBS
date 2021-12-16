@@ -188,7 +188,7 @@ CREATE TABLE IF NOT EXISTS `pesapi_account` (
 --
 
 INSERT INTO `pesapi_account` (`id`, `type`, `name`, `identifier`, `push_in`, `push_out`, `push_neutral`, `settings`) VALUES
-(27, 2, 'eesbs', '0711219260', 1, 0, 0, 'a:7:{s:11:"PUSH_IN_URL";s:43:"https://eesbs.000webhostapp.com/smssync.php";s:14:"PUSH_IN_SECRET";s:5:"eesbs";s:12:"PUSH_OUT_URL";s:0:"";s:15:"PUSH_OUT_SECRET";s:0:"";s:16:"PUSH_NEUTRAL_URL";s:0:"";s:19:"PUSH_NEUTRAL_SECRET";s:0:"";s:11:"SYNC_SECRET";s:8:"4rk5rbj8";}');
+(27, 2, 'eesbs', '0711111111', 1, 0, 0, 'a:7:{s:11:"PUSH_IN_URL";s:43:"https://eesbs.000webhostapp.com/smssync.php";s:14:"PUSH_IN_SECRET";s:5:"eesbs";s:12:"PUSH_OUT_URL";s:0:"";s:15:"PUSH_OUT_SECRET";s:0:"";s:16:"PUSH_NEUTRAL_URL";s:0:"";s:19:"PUSH_NEUTRAL_SECRET";s:0:"";s:11:"SYNC_SECRET";s:8:"4rk5rbj8";}');
 
 -- --------------------------------------------------------
 
